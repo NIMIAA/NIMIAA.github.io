@@ -20,7 +20,7 @@ CHALLENGE HUB : QR Code Component
 
 ### Screenshot
 
-![Here's a ScreenShot of my desktop design](./qr-code-component-main/images/Screenshot%202023-08-04%20at%2018-22-05%20Frontend%20Mentor%20QR%20code%20component.png)
+[Here's a ScreenShot of my desktop design](./qr-code-component-main/images/SS.png)
 
 ### Links
 
