@@ -29,7 +29,7 @@ CHALLENGE HUB : QR Code Component
 ## My process 
 - Downloaded the files containing everything i needed for the challenge from frontend mentor
 - Put them all in a new folder and opened the folder on VScode
-- Created an html file and added the image, wrote texts using the <h3> tag and <p> tag
+- Created an html file and added the image, wrote texts using the h3 tag and p tag
 - Created a CSS file and linked it to the html file using <link> tag
 - Styled the html code to look exactly like the design should be followinf the required font size, font family, color pallete e.t.c That's it!
 
