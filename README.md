@@ -24,7 +24,7 @@ CHALLENGE HUB : QR Code Component
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
+- Solution URL: [solution URL](https://github.com/NIMIAA/NIMIAA.github.io.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process 
