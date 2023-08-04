@@ -20,12 +20,12 @@ CHALLENGE HUB : QR Code Component
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Here's a ScreenShot of my desktop design](./qr-code-component-main/images/Screenshot%202023-08-04%20at%2018-22-05%20Frontend%20Mentor%20QR%20code%20component.png)
 
 ### Links
 
 - Solution URL: [solution URL](https://github.com/NIMIAA/NIMIAA.github.io.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://nimiaa.github.io/)
 
 ## My process 
 - Downloaded the files containing everything i needed for the challenge from frontend mentor
